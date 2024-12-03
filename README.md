@@ -2,6 +2,18 @@
 A user-friendly, sleek, and dynamic registration form designed with modern web technologies. This project demonstrates the creation of an interactive UI with a focus on user experience, and a robust backend to handle form submissions seamlessly.
 
 ---
+## **Table of Contents**
+1. Features[#fea]
+2. Technologies Used[#tec]
+3. Project Structure[#pro]
+4. Getting Started[#how]
+5. Database Schema[#dat]
+6. Screenshots[#scr]
+7. Future Enhancement[#fut]
+8. Acknowledgments[#ack]
+9. Contributing[#con]
+10. License[#lic]
+11. Contact[#cont]
 
 ## ✨ **Features**
 
@@ -13,6 +25,14 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 - 🌟 **Custom Styling**: Modern and clean CSS design inspired by professional registration forms.
 - 🚀 **Real-Time Feedback**: Eye-catching interactive UI elements for enhanced user experience.
 
+---
+## 💻 **Technologies Used**
+
+```yaml
+| **Frontend**          | **Backend**            | **Database**          |
+|-----------------------|------------------------|-----------------------|
+| HTML5, CSS3, EJS      | Node.js, Express.js    | MySQL                 |
+```
 ---
 
 ## 🏗️ **Project Structure**
@@ -38,15 +58,6 @@ Dynamic-Registration-Hub/
 
 ---
 
-## 💻 **Technologies Used**
-
-```yaml
-| **Frontend**          | **Backend**            | **Database**          |
-|-----------------------|------------------------|-----------------------|
-| HTML5, CSS3, EJS      | Node.js, Express.js    | MySQL                 |
-```
-
----
 
 ## 🚀 **How to Run the Project**
 
@@ -110,10 +121,15 @@ Feel free to modify:
 * public/style.css for styling changes.
 * app.js for backend functionality.
 ---
-## **License**
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial projects.
+
+## 🙌 **Acknowledgments**
+Special thanks to:
+
+* **Node.js** Community for backend inspiration
+* **Open Source Contributors** for making web development amazing
 ---
+
 ## 🤝 **Contributing**
 
 Contributions are welcome! If you'd like to improve the project:
@@ -125,12 +141,13 @@ Contributions are welcome! If you'd like to improve the project:
 5. Open a pull request 🚀
 
 ---
-## 🙌 **Acknowledgments**
-Special thanks to:
 
-* **Node.js** Community for backend inspiration
-* **Open Source Contributors** for making web development amazing
+## **License**
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial projects.
+
 ---
+
 
 ## 📬 **Contact**
 If you have any queries or feedback:
