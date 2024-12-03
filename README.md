@@ -34,3 +34,75 @@ Dynamic-Registration-Hub/
 ├── .gitignore                     # Files and folders to ignore in Git
 └── README.md                      # Project documentation
 ```
+
+---
+
+## 💻 **Technologies Used**
+
+```yaml
+| **Frontend**         | **Backend**            | **Database**          |
+|-----------------------|------------------------|-----------------------|
+| HTML5, CSS3, EJS      | Node.js, Express.js    | MySQL                 |
+```
+
+---
+
+## 🚀 **How to Run the Project**
+
+### 1️⃣ Prerequisites
+- Install **[Node.js](https://nodejs.org/)** (latest version)
+- Install **[XAMPP](https://www.apachefriends.org/)** for MySQL and Apache server
+
+### 2️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/Dynamic-Registration-Hub.git
+cd Dynamic-Registration-Hub
+```
+
+### 3️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 4️⃣ Set Up the Database
+* Open phpMyAdmin using XAMPP: http://localhost/phpmyadmin
+* Create a database named: registration_hub
+* Import the schema.sql file provided in the project (optional: create a users table with name, email, country, phone, and password fields).
+
+### 5️⃣ Run the Server
+```bash
+node app.js
+```
+* Access the application in your browser: http://localhost:3000
+---
+
+
+## 📂 **Database Schema**
+```sql
+CREATE DATABASE registration_hub;
+
+USE registration_hub;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    email VARCHAR(100),
+    country VARCHAR(100),
+    phone VARCHAR(15),
+    password VARCHAR(100)
+);
+```
+
+---
+
+## 🎨 **Screenshots**
+### Registraion Form:
+<img src="registrationform.jpeg />
+### Confirmation Response:
+<img src="registrationform.jpeg />
+
+---
+## 🛠️ Customizing the Project
+
+
+
