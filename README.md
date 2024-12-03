@@ -40,7 +40,7 @@ Dynamic-Registration-Hub/
 ## 💻 **Technologies Used**
 
 ```yaml
-| **Frontend**         | **Backend**            | **Database**          |
+| **Frontend**          | **Backend**            | **Database**          |
 |-----------------------|------------------------|-----------------------|
 | HTML5, CSS3, EJS      | Node.js, Express.js    | MySQL                 |
 ```
@@ -102,7 +102,32 @@ CREATE TABLE users (
 <img src="registrationform.jpeg />
 
 ---
-## 🛠️ Customizing the Project
+## 🛠️ **Customizing the Project**
+Feel free to modify:
+
+* views/form.ejs for form fields.
+* public/style.css for styling changes.
+* app.js for backend functionality.
+---
+## **License**
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial projects.
+---
+## 🤝 **Contributing**
+
+Contributions are welcome! If you'd like to improve the project:
+
+1. Fork the repo
+2. Create a new feature branch: git checkout -b feature/new-feature
+3. Commit your changes: git commit -m "Add some feature"
+4. Push to the branch: git push origin feature/new-feature
+5. Open a pull request 🚀
+
+---
+## 🙌 **Acknowledgments**
+Special thanks to:
+
+* **Node.js** Community for backend inspiration
+* **Open Source Contributors** for making web development amazing
 
 
 
