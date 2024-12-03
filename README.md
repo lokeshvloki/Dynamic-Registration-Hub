@@ -3,7 +3,7 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 
 ---
 ## **Table of Contents**
-1. Features[#fea]
+1. [Features][#fea]
 2. Technologies Used[#tec]
 3. Project Structure[#pro]
 4. Getting Started[#how]
@@ -15,7 +15,7 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 10. License[#lic]
 11. Contact[#cont]
 
-## ✨ **Features**
+## ✨ **Features** <a name="fea"></a>
 
 - 🌐 **Dynamic UI**:
   A visually appealing and responsive registration form.
