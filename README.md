@@ -1,9 +1,9 @@
-# Dynamic-Registration-Hub
+# **Dynamic-Registration-Hub**
 A user-friendly, sleek, and dynamic registration form designed with modern web technologies. This project demonstrates the creation of an interactive UI with a focus on user experience, and a robust backend to handle form submissions seamlessly.
 
 ---
 
-## ✨ Features
+## ✨ **Features**
 
 - 🌐 **Dynamic UI**: A visually appealing and responsive registration form.
 - 🔐 **Secure Validation**: Implements basic form validations for clean and safe data submission.
@@ -134,7 +134,6 @@ Special thanks to:
 ## 📬 **Contact**
 If you have any queries or feedback:
 * Email: lokeshv2403@gmail.com
-* LinkedIn: 
-
+* LinkedIn: Lokesh-v (#https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
