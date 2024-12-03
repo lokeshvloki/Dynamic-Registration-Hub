@@ -15,6 +15,8 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 10. [License](#lic)
 11. [Contact](#cont)
 
+---
+
 ## ✨ **Features** <a name="fea"></a>
 
 - 🌐 **Dynamic UI**:
