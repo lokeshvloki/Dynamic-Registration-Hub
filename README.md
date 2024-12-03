@@ -3,17 +3,17 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 
 ---
 ## **Table of Contents**
-1. [Features][#fea]
-2. Technologies Used[#tec]
-3. Project Structure[#pro]
-4. Getting Started[#how]
-5. Database Schema[#dat]
-6. Screenshots[#scr]
-7. Future Enhancement[#fut]
-8. Acknowledgments[#ack]
-9. Contributing[#con]
-10. License[#lic]
-11. Contact[#cont]
+1. [Features](#fea)
+2. [Technologies Used](#tec)
+3. [Project Structure](#pro)
+4. [Getting Started](#how)
+5. [Database Schema](#dat)
+6. [Screenshots](#scr)
+7. [Future Enhancement](#fut)
+8. [Acknowledgments](#ack)
+9. [Contributing](#con)
+10. [License](#lic)
+11. [Contact](#cont)
 
 ## ✨ **Features** <a name="fea"></a>
 
@@ -26,7 +26,7 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 - 🚀 **Real-Time Feedback**: Eye-catching interactive UI elements for enhanced user experience.
 
 ---
-## 💻 **Technologies Used**
+## 💻 **Technologies Used** <a name="tec"></a>
 
 ```yaml
 | **Frontend**          | **Backend**            | **Database**          |
@@ -35,7 +35,7 @@ A user-friendly, sleek, and dynamic registration form designed with modern web t
 ```
 ---
 
-## 🏗️ **Project Structure**
+## 🏗️ **Project Structure** <a name="pro"></a>
 
 ```graphql
 Dynamic-Registration-Hub/
@@ -59,7 +59,7 @@ Dynamic-Registration-Hub/
 ---
 
 
-## 🚀 **How to Run the Project**
+## 🚀 **How to Run the Project** <a name="how"></a>
 
 ### 1️⃣ Prerequisites
 - Install **[Node.js](https://nodejs.org/)** (latest version)
@@ -89,7 +89,7 @@ node app.js
 ---
 
 
-## 📂 **Database Schema**
+## 📂 **Database Schema** <a name="dat"></a>
 ```sql
 CREATE DATABASE registration_hub;
 
@@ -107,14 +107,14 @@ CREATE TABLE users (
 
 ---
 
-## 🎨 **Screenshots**
+## 🎨 **Screenshots** <a name="scr"></a>
 ### Registraion Form:
 <img src="registrationform.jpeg />
 ### Confirmation Response:
 <img src="registrationform.jpeg />
 
 ---
-## 🛠️ **Customizing the Project**
+## 🛠️ **Customizing the Project** <a name="fut"></a>
 Feel free to modify:
 
 * views/form.ejs for form fields.
@@ -123,14 +123,14 @@ Feel free to modify:
 ---
 
 
-## 🙌 **Acknowledgments**
+## 🙌 **Acknowledgments** <a name="ack"></a>
 Special thanks to:
 
 * **Node.js** Community for backend inspiration
 * **Open Source Contributors** for making web development amazing
 ---
 
-## 🤝 **Contributing**
+## 🤝 **Contributing** <a name="con"></a>
 
 Contributions are welcome! If you'd like to improve the project:
 
@@ -142,14 +142,14 @@ Contributions are welcome! If you'd like to improve the project:
 
 ---
 
-## **License**
+## **License** <a name="lic"></a>
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial projects.
 
 ---
 
 
-## 📬 **Contact**
+## 📬 **Contact** <a name="cont"></a>
 If you have any queries or feedback:
 * Email: lokeshv2403@gmail.com
 * LinkedIn: [Lokesh-v](https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
