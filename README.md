@@ -110,6 +110,7 @@ Feel free to modify:
 * app.js for backend functionality.
 ---
 ## **License**
+
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it for personal or commercial projects.
 ---
 ## 🤝 **Contributing**
@@ -128,6 +129,12 @@ Special thanks to:
 
 * **Node.js** Community for backend inspiration
 * **Open Source Contributors** for making web development amazing
+---
+
+## 📬 **Contact**
+If you have any queries or feedback:
+* Email: lokeshv2403@gmail.com
+* LinkedIn: 
 
 
 
