@@ -134,6 +134,18 @@ Special thanks to:
 ## 📬 **Contact**
 If you have any queries or feedback:
 * Email: lokeshv2403@gmail.com
-* LinkedIn: Lokesh-v (#https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* LinkedIn: [Lokesh-v](#https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* Twitter: [lokesh07](https://x.com/me_lokesh07)
+```yaml
+---
+
+### 🎯 What’s Next?
+- Add more interactivity (e.g., animations).
+- Implement advanced validations and error handling.
+- Deploy the project using **Heroku** or **Vercel** for live access.  
+
+How do you like it, Loki? 😊
+```
+
 
 
