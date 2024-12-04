@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="container">
+    <form action="/register" method="POST" class="registration-form">
+      <h2>Registration Form</h2>
+      <input type="text" name="name" placeholder="Name" required />
+      <input type="email" name="email" placeholder="Email Address" required />
+      <input type="text" name="country" placeholder="Country" required />
+      <input type="tel" name="phone" placeholder="Phone" required />
+      <input type="password" name="password" placeholder="Password" required />
+      <label>
+        <input type="checkbox" name="terms" /> I accept terms & conditions
+      </label>
+      <button type="submit">Create Account</button>
+    </form>
+  </div>
+</body>
+</html>
