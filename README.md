@@ -110,10 +110,10 @@ CREATE TABLE users (
 ---
 
 ## 🎨 **Screenshots** <a name="scr"></a>
-![Registration Form]("RegistrationForm.png")
+![Registration Form](RegistrationForm.png)
 
 ### Confirmation Response:
-![Confirmation Response]("ConfirmationResponse.png")
+![Confirmation Response](ConfirmationResponse.png)
 
 ---
 ## 🛠️ **Customizing the Project** <a name="fut"></a>
